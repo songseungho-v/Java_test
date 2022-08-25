@@ -17,6 +17,6 @@ public class Exm01_NumberRounds {
 			indata = (indata/10)*10;
 
 			System.out.println("반올림 수 : "+ indata);
-	}
+	} 
 
 }
